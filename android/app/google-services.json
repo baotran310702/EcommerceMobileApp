@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663342835700",
+    "project_id": "ecommerce-5ff79",
+    "storage_bucket": "ecommerce-5ff79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663342835700:android:8286979a0b73b0e29e7ba1",
+        "android_client_info": {
+          "package_name": "com.example.train_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ZNN5zUKiBl01Ih4HXxzYpJPzOfDAbnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
